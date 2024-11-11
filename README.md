@@ -30,11 +30,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gjramalho/gjramalho/output/snake.svg" alt="Snake animation" />
 
-###
 
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-ramalho-9a83a2125/" target="_blank">
