@@ -30,4 +30,6 @@
 
 ![snake gif](https://github.com/gjramalho/gjramalho/blob/output/github-contribution-grid-snake.svg)
 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=gjramalho&repo=gjramalho&theme=react)](https://github.com/gjramalho/gjramalho)
+
 ###
