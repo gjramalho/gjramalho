@@ -28,4 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
+![snake gif](https://github.com/gjramalho/gjramalho/blob/output/github-contribution-grid-snake.svg)
+
 ###
