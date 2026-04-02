@@ -17,7 +17,7 @@ Estou cursando o 4º semestre de **Sistemas de Informação**, com foco total em
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,css" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@ Estou cursando o 4º semestre de **Sistemas de Informação**, com foco total em
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,vscode,visualstudio,docker,git,github,powershell" />
+    <img src="https://skillicons.dev/icons?i=dotnet,tailwind,vscode,visualstudio,docker,git,github,powershell" />
   </a>
 </p>
 
