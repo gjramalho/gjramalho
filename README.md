@@ -33,8 +33,6 @@ Atualmente cursando o 4º semestre de **Sistemas de Informação**, com foco tot
 
 ---
 
----
-
 ## 🔥 My Stats
 
 <p align="center">
