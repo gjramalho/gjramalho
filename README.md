@@ -6,18 +6,18 @@
 
 ## 💻 About Me
 
-Estou cursando o 4º semestre de **Sistemas de Informação**, com foco total em desenvolvimento **Backend**. Meu objetivo é construir sistemas escaláveis e eficientes, unindo o conhecimento acadêmico com a prática de projetos reais.
+Atualmente cursando o 4º semestre de **Sistemas de Informação**, com foco total no ecossistema **Microsoft .NET**. Minha jornada evoluiu de estudos em Python e Frontend para uma paixão sólida pelo desenvolvimento **Backend** escalável e robusto.
 
-- 📚 Estudando profundamente **ASP.NET Core, Entity Framework e Azure**.
-- ⚡ No meu tempo livre, gosto de explorar **otimização de hardware** e novos algoritmos.
-
+- 🚀 **Foco Atual:** Especialização em **C#, ASP.NET Core 2025 e Azure**.
+- 🛠️ **Projetos Recentes:** Desenvolvi o **Scheduler**, um sistema de agendamento em console utilizando .NET 8, EF Core e SQL Server.
+- 🎓 **Certificações:** Formação concluída em C# e SQL Databases com foco em integração de dados.
 ---
 
 ## 🛠 Languages & Databases
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,css" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,css" />
   </a>
 </p>
 
@@ -31,14 +31,17 @@ Estou cursando o 4º semestre de **Sistemas de Informação**, com foco total em
 
 ---
 
+---
+
 ## 🔥 My Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gjramalho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+### My Contributions:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gjramalho&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/gjramalho/gjramalho/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
