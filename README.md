@@ -6,7 +6,7 @@
 
 ## 💻 About Me
 
-Estou cursando o 3º semestre de **Sistemas de Informação**, com foco total em desenvolvimento **Backend**. Meu objetivo é construir sistemas escaláveis e eficientes, unindo o conhecimento acadêmico com a prática de projetos reais.
+Estou cursando o 4º semestre de **Sistemas de Informação**, com foco total em desenvolvimento **Backend**. Meu objetivo é construir sistemas escaláveis e eficientes, unindo o conhecimento acadêmico com a prática de projetos reais.
 
 - 📚 Estudando profundamente **ASP.NET Core, Entity Framework e Azure**.
 - ⚡ No meu tempo livre, gosto de explorar **otimização de hardware** e novos algoritmos.
@@ -17,7 +17,7 @@ Estou cursando o 3º semestre de **Sistemas de Informação**, com foco total em
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,mysql,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@ Estou cursando o 3º semestre de **Sistemas de Informação**, com foco total em
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,azure,docker,git,github,linux,postman,powershell" />
+    <img src="https://skillicons.dev/icons?i=dotnet,vscode,visualstudio,docker,git,github,powershell" />
   </a>
 </p>
 
