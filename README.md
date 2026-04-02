@@ -46,8 +46,4 @@ Atualmente cursando o 4º semestre de **Sistemas de Informação**, com foco tot
   <img src="https://raw.githubusercontent.com/gjramalho/gjramalho/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
----
 
-<p align="center">
-  Desenvolvido por Gabriel Ramalho 😊
-</p>
