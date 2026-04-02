@@ -41,7 +41,7 @@ Atualmente cursando o 4º semestre de **Sistemas de Informação**, com foco tot
 
 ### My Contributions:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gjramalho/gjramalho/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/gjramalho/gjramalho/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
