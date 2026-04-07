@@ -33,12 +33,6 @@ Atualmente cursando o 4º semestre de **Sistemas de Informação**, com foco tot
 
 ---
 
-## My Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gjramalho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ### My Contributions:
 <p align="center">
   <img src="https://raw.githubusercontent.com/gjramalho/gjramalho/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
