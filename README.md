@@ -6,13 +6,13 @@
 
 ---
 
-## 💻 About Me
+## About Me
 
 Atualmente cursando o 4º semestre de **Sistemas de Informação**, com foco total no ecossistema **Microsoft .NET**. Minha jornada evoluiu de estudos em Python e Frontend para uma paixão sólida pelo desenvolvimento **Backend** escalável e robusto.
 
-- 🚀 **Foco Atual:** Especialização em **C#, ASP.NET Core 2025 e Azure**.
-- 🛠️ **Projetos Recentes:** Desenvolvi o **Scheduler**, um sistema de agendamento em console utilizando .NET 8, EF Core e SQL Server.
-- 🎓 **Certificações:** Formação concluída em C# e SQL Databases com foco em integração de dados.
+-  **Foco Atual:** Especialização em **C#, ASP.NET Core 2025 e Azure**.
+-  **Projetos Recentes:** Desenvolvi o **Scheduler**, um sistema de agendamento em console utilizando .NET 8, EF Core e SQL Server.
+-  **Certificações:** Formação concluída em C# e SQL Databases com foco em integração de dados.
 ---
 
 ## 🛠 Languages & Databases
@@ -23,7 +23,7 @@ Atualmente cursando o 4º semestre de **Sistemas de Informação**, com foco tot
   </a>
 </p>
 
-## 🚀 Frameworks & Tools
+## Frameworks & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
