@@ -15,7 +15,7 @@ Atualmente cursando o 4º semestre de **Sistemas de Informação**, com foco tot
 -  **Certificações:** Formação concluída em C# e SQL Databases com foco em integração de dados.
 ---
 
-## 🛠 Languages & Databases
+## Languages & Databases
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -33,7 +33,7 @@ Atualmente cursando o 4º semestre de **Sistemas de Informação**, com foco tot
 
 ---
 
-## 🔥 My Stats
+## My Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gjramalho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
