@@ -8,7 +8,7 @@
 
 ## About Me
 
-Atualmente cursando o 4º semestre de **Sistemas de Informação**, com foco total no ecossistema **Microsoft .NET**. Minha jornada evoluiu de estudos em Python e Frontend para uma paixão sólida pelo desenvolvimento **Backend** escalável e robusto.
+Atualmente cursando o 3º semestre de **Sistemas de Informação**, com foco total no ecossistema **Microsoft .NET**. Minha jornada evoluiu de estudos em Python e Frontend para uma paixão sólida pelo desenvolvimento **Backend** escalável e robusto.
 
 -  **Foco Atual:** Especialização em **C#, ASP.NET Core 2025 e Azure**.
 -  **Projetos Recentes:** Desenvolvi o **Scheduler**, um sistema de agendamento em console utilizando .NET 8, EF Core e SQL Server.
