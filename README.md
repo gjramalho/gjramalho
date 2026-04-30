@@ -6,7 +6,7 @@
 
 --- 
 
-## About Me
+## About Me 
 
 Atualmente curso o 3º semestre de Sistemas de Informação e estou focado em desenvolvimento Backend com o ecossistema Microsoft .NET. Iniciei minha jornada estudando Python e Frontend, e atualmente venho aprofundando meus conhecimentos em C#, ASP.NET Core, Entity Framework Core, SQL Server e Azure.
 
