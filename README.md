@@ -12,7 +12,7 @@ Estudante de Sistemas de Informação dedicado ao desenvolvimento Backend com C#
 
 - **Foco Tecnológico:** C#, ASP.NET Core, Entity Framework e SQL Server.
 - **Projetos Recentes:** Desenvolvimento do Scheduler, sistema de agendamento baseado em .NET 8 e persistência de dados com EF Core.
-- **Objetivo Profissional:**Contribuir em projetos backend focados em performance, segurança e código limpo.
+- **Objetivo Profissional:** Contribuir em projetos backend focados em performance, segurança e código limpo.
 ---
 
 ## Languages & Databases
