@@ -10,7 +10,7 @@ Me chamo Gabriel Ramalho, tenho 24 anos e sou natural de São Paulo. Estudante d
  
 #
 
-<img align="right" alt="" height="190px" src="./src/sad.gif">
+<img align="right" alt="" height="190px" src="./src/solol.gif">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -50,7 +50,7 @@ Me chamo Gabriel Ramalho, tenho 24 anos e sou natural de São Paulo. Estudante d
     title="GitHub"
     width="35px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
 />
 
 <img 
