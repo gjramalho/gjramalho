@@ -17,14 +17,13 @@ Me chamo Gabriel Ramalho, tenho 24 anos e sou natural de São Paulo. Estudante d
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabijramalho@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gabriel-barbosa-gj)
 
-
 <h3 align="left">My Stack</h3>
 
 <img 
     align="left" 
     alt="C#"
     title="C#" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
@@ -32,7 +31,7 @@ Me chamo Gabriel Ramalho, tenho 24 anos e sou natural de São Paulo. Estudante d
     align="left" 
     alt=".NET" 
     title=".NET"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
 />
@@ -40,7 +39,7 @@ Me chamo Gabriel Ramalho, tenho 24 anos e sou natural de São Paulo. Estudante d
     align="left" 
     alt="Docker" 
     title="Docker"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
 />
@@ -49,7 +48,7 @@ Me chamo Gabriel Ramalho, tenho 24 anos e sou natural de São Paulo. Estudante d
     align="left"
     alt="Github"
     title="GitHub"
-    width="30px"
+    width="35px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
@@ -58,7 +57,7 @@ Me chamo Gabriel Ramalho, tenho 24 anos e sou natural de São Paulo. Estudante d
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -67,7 +66,7 @@ Me chamo Gabriel Ramalho, tenho 24 anos e sou natural de São Paulo. Estudante d
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -76,7 +75,7 @@ Me chamo Gabriel Ramalho, tenho 24 anos e sou natural de São Paulo. Estudante d
     align="left"
     alt="SQLserver"
     title="SQLserver"
-    width="30px"
+    width="35px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
 />
