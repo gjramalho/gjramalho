@@ -10,7 +10,7 @@ Me chamo Gabriel Ramalho, tenho 24 anos e sou natural de São Paulo. Estudante d
  
 #
 
-<img align="right" alt="" height="190px" src="./src/solol.gif">
+<img align="right" alt="" height="210px" src="./src/solol.gif">
 
 <h3 align="left">Connect with me!</h3>
 
